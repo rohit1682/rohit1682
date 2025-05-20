@@ -1,0 +1,175 @@
+P RO F E S S IO NA L PRO F I L E: 
+I have recently completed my B. Tech in Computer Science Engineering and am now actively 
+seeking career opportunities in full stack web development. Proficient in multiple programming 
+languages and frameworks, I bring strong analytical and problem-solving abilities to the table. 
+My experience in leadership roles has sharpened my project management and team 
+collaboration skills. I also hold certifications in key technologies within my domain, reflecting 
+my continuous passion for learning and innovation. With a solid foundation in both technical 
+and interpersonal skills, I am confident in my ability to contribute effectively to the IT industry.
+
+SKILLS 
+PROGRAMMING LANGUAGES 
+JavaScript, Java
+C, C++, Python
+FRAMEWORKS 
+React JS, Django REST API
+FRONTEND TECHNOLOGIES 
+Figma, Tailwind-CSS, 
+Bootstrap 5.2, HTML, 
+Custom-CSS, jQuery,
+SEO optimization
+BACKEND TECHNOLOGIES 
+NodeJS, ExpressJS Servers, 
+Django Models, PHP, SQL, 
+MongoDB.
+PROJECT MANAGEMENT 
+METHODOLOGIES 
+JIRA
+Agile and Scrum
+TOOLS 
+JEST Unit Testing, MongoDB 
+Compass, Postman, Github, 
+MySQL, Ubuntu 22.04.2 LTS, 
+Virtual Box VM, Botpress, VS 
+Code.
+DOCUMENTATION TOOLS 
+MS Excel, MS PowerPoint
+Docs, Slides, Sites, Sheets
+INTERPERSONAL SKILLS 
+Planning and organizing, 
+Excellent communication, 
+Adaptability, Problem solving
+
+I NT ERN SH I P S
+JUNIOR SOFTWARE DEVELOPER INTERN JAN 2025 – PRESENT 
+EPAM Systems – On-site, Hyderabad
+Built scalable full-stack features using modern web technologies and cloud platforms in an 
+Agile environment.
+• Spearheaded the development of responsive web components using React.js with 
+TypeScript, improving UI performance and code reusability by 30%.
+• Integrated RESTful APIs with Node.js and Express.js, reducing response times by 25% 
+and improving data consistency across services.
+• Deployed microservices on AWS EC2, stored assets on S3, and used DynamoDB for 
+NoSQL data storage, ensuring 99.9% uptime and horizontal scalability.
+• Automated build and deployment using CI/CD pipelines with GitHub Actions, cutting 
+release times from 3 days to under 1 day.
+• Used JIRA to manage sprint deliverables and collaborate with cross-functional teams, 
+improving task visibility and sprint velocity by 20%.
+
+P RO F E S S IO NA L TRA IN IN G C ERT I F ICAT ION S
+JAVASCRIPT DEVELOPER SEPTEMBER 2024 – DECEMBER 2024 
+EPAM Systems - Remote
+Completed an industry-oriented training program focused on modern web development tools, 
+software engineering practices, and cloud technologies.
+• Developed front-end applications using HTML, CSS, JavaScript, TypeScript, React, 
+and Angular
+• Practiced version control with Git and followed software development methodologies
+in collaborative projects
+• Built backend solutions using Node.js
+• Gained exposure to cloud fundamentals
+VIRTUAL DEVELOPER MAY 2024 – JUNE 2024 
+Salesforce - Remote
+Completed a comprehensive developer-focused virtual internship program with hands-on 
+training in Salesforce platform development and administration.
+• Mastered core modules including Salesforce Fundamentals, Organizational Setup, 
+Process Automation, Flows, Security, and Apex Debugging.
+• Built and tested advanced components using Lightning Web Components (LWC) and 
+performed API integrations.
+• Achieved Super badges in Apex Specialist, Process Automation Specialist, and 
+Developer Super Set, demonstrating real-world project readiness.
+• Set up and utilized VS Code with Salesforce CLI, streamlining the development and 
+deployment process.
+FULL STACK DEVELOPER MAY 2023 – SEPTEMBER 2023 
+HP India, Hybrid, Kolkata
+Contributed to the design and development of dynamic, user-friendly web applications with 
+full stack technologies.
+• Designed responsive and visually appealing UI components using HTML, CSS, 
+Bootstrap, JavaScript, and jQuery, improving user engagement.
+• Developed robust back-end functionalities with PHP and MySQL, reducing query 
+execution time by 35% through optimized database structures.
+• Managed web hosting and deployment, ensuring 99.9% uptime and seamless 
+performance across environments.
+
+
+L E A R N I N G 
+C E R T I F I C A T I O N S
+LinkedIn Learning 
+• Crafting Meaningful HTML
+• Tailwind CSS 4 Essential 
+Training
+• JavaScript: Language 
+Essentials and Async 
+Functions
+• Programming Foundations: 
+Design Patterns
+• TypeScript Essential 
+Training
+• React Essential Training
+• Building Modern Projects 
+with React
+• Node.js: Essentials, 
+ECMAScript 6 (ES6), and 
+Design Patterns
+• Databases for Node.js 
+Developers
+• MongoDB Essential Training
+• Git Essential Training
+Udemy
+• Django for Web 
+Development
+• Computer Vision and Image 
+Processing
+• Data Structures using Java
+• Quantitative Aptitude for 
+CAT 2024
+Amazon Web Services (AWS)
+• AWS Academy Graduate
+Coding Ninjas
+• Project Management 
+Certificate
+Webskitters Academy, Kolkata
+• Full Stack Development
+
+VOL UNT E ER ING PO S IT ION S A ND R E S PON S IB I L IT IE S
+Project Coordinator October 2022 – February 2024. 
+Enactus KIIT-KISS, Bhubaneshwar. 
+• Managed Project ENCUBE from initiation to completion, overseeing 
+resources of 50+ members and streamlining processes.
+• Provided leadership and mentorship to a cross-functional team, fostering 
+collaboration with stakeholders for successful project outcomes.
+• During the tenure as Project Coordinator for Project Encube, Enactus KIIT 
+qualified for Enactus India National Exposition2023 (Top 19) after a break of 
+5 years among 120+ teams competing at IIT Delhi.
+President, Debating and MUN Society April 2019 – June 2021.
+Sri Aurobindo Institute of Education. 
+• Managed a society of over 70+ members, organizing and conducting debate 
+competitions and Model United Nations (MUN) events across Kolkata.
+• Participated in more than 13 MUNs and 7 debate competitions, achieving 
+excellent results.
+
+E X T R A-C U R R I C U L A R 
+A C H I E V E M E N T S
+• First Position at Enactus 
+National Cup 2024 and 
+Represented as Enactus India
+at Enactus World Cup held at 
+Kazakhstan.
+• 2
+nd
+ Runner up in IDEATHON in 
+Mo Utkal Divas 2.0: Project 
+ENCUBE.
+• Participated in round of 16 at 
+Enactus National Cup 2023.
+• Completed Communicative 
+Proficiency in German in KIIT 
+School Of Languages.
+• Best Delegate in SAIEMUN 
+2019.
+• Honorary Mention in SAIEMUN 
+2017.
+• Participated in Coding Jam, 
+Rhapsody by Saltlake School
+
+
+
