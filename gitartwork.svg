@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="800px" height="400px" viewBox="0 0 800 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Rohit's GitHub Artwork</title>
+    <title>ROHIT's GitHub Artwork</title>
     <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g transform="translate(150, 100)">
             <!-- Animated background -->
@@ -8,54 +8,55 @@
                 <animate attributeName="opacity" values="0.3;0.7;0.3" dur="3s" repeatCount="indefinite"/>
             </rect>
             
-            <!-- R - Completely redesigned -->
-            <!-- Vertical line -->
-            <path d="M50,30 L50,130" stroke="#2E9BF7" stroke-width="8" fill="none">
+            <!-- R -->
+            <path d="M40,50 L40,150" stroke="#2E9BF7" stroke-width="8" fill="none">
                 <animate attributeName="stroke-dasharray" from="0,100" to="100,0" dur="1s" fill="freeze"/>
             </path>
-            
-            <!-- Top rounded part -->
-            <path d="M50,30 C50,30 100,30 100,60 C100,90 50,90 50,90" stroke="#2E9BF7" stroke-width="8" fill="none">
-                <animate attributeName="stroke-dasharray" from="0,150" to="150,0" dur="1.5s" begin="1s" fill="freeze"/>
+            <path d="M40,50 L80,50 C100,50 110,70 110,85 C110,100 100,120 80,120 L40,120" stroke="#2E9BF7" stroke-width="8" fill="none">
+                <animate attributeName="stroke-dasharray" from="0,200" to="200,0" dur="1.5s" begin="1s" fill="freeze"/>
             </path>
-            
-            <!-- Diagonal leg -->
-            <path d="M75,90 L100,130" stroke="#2E9BF7" stroke-width="8" fill="none">
+            <path d="M70,120 L110,150" stroke="#2E9BF7" stroke-width="8" fill="none">
                 <animate attributeName="stroke-dasharray" from="0,70" to="70,0" dur="1s" begin="2.5s" fill="freeze"/>
             </path>
             
-            <!-- o -->
-            <circle cx="200" cy="100" r="30" stroke="#2E9BF7" stroke-width="8" fill="none">
-                <animate attributeName="stroke-dasharray" from="0,200" to="200,0" dur="1.5s" begin="0.5s" fill="freeze"/>
+            <!-- O -->
+            <circle cx="160" cy="100" r="35" stroke="#2E9BF7" stroke-width="8" fill="none">
+                <animate attributeName="stroke-dasharray" from="0,220" to="220,0" dur="1.5s" begin="0.5s" fill="freeze"/>
             </circle>
             
-            <!-- h -->
-            <path d="M250,50 L250,150" stroke="#2E9BF7" stroke-width="8" fill="none">
+            <!-- H -->
+            <path d="M220,50 L220,150" stroke="#2E9BF7" stroke-width="8" fill="none">
                 <animate attributeName="stroke-dasharray" from="0,100" to="100,0" dur="1s" begin="1s" fill="freeze"/>
             </path>
-            <path d="M250,100 C250,100 300,100 300,150" stroke="#2E9BF7" stroke-width="8" fill="none">
+            <path d="M280,50 L280,150" stroke="#2E9BF7" stroke-width="8" fill="none">
                 <animate attributeName="stroke-dasharray" from="0,100" to="100,0" dur="1s" begin="1.5s" fill="freeze"/>
             </path>
+            <path d="M220,100 L280,100" stroke="#2E9BF7" stroke-width="8" fill="none">
+                <animate attributeName="stroke-dasharray" from="0,60" to="60,0" dur="1s" begin="2s" fill="freeze"/>
+            </path>
             
-            <!-- i -->
-            <path d="M350,50 L350,150" stroke="#2E9BF7" stroke-width="8" fill="none">
+            <!-- I -->
+            <path d="M340,50 L340,150" stroke="#2E9BF7" stroke-width="8" fill="none">
                 <animate attributeName="stroke-dasharray" from="0,100" to="100,0" dur="1s" begin="2s" fill="freeze"/>
             </path>
-            <circle cx="350" cy="40" r="5" fill="#2E9BF7">
-                <animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.5s" fill="freeze"/>
-            </circle>
+            <path d="M320,50 L360,50" stroke="#2E9BF7" stroke-width="8" fill="none">
+                <animate attributeName="stroke-dasharray" from="0,40" to="40,0" dur="0.8s" begin="2.5s" fill="freeze"/>
+            </path>
+            <path d="M320,150 L360,150" stroke="#2E9BF7" stroke-width="8" fill="none">
+                <animate attributeName="stroke-dasharray" from="0,40" to="40,0" dur="0.8s" begin="3s" fill="freeze"/>
+            </path>
             
-            <!-- t -->
-            <path d="M400,50 L400,150" stroke="#2E9BF7" stroke-width="8" fill="none">
+            <!-- T -->
+            <path d="M420,50 L420,150" stroke="#2E9BF7" stroke-width="8" fill="none">
                 <animate attributeName="stroke-dasharray" from="0,100" to="100,0" dur="1s" begin="2.5s" fill="freeze"/>
             </path>
-            <path d="M370,50 L430,50" stroke="#2E9BF7" stroke-width="8" fill="none">
-                <animate attributeName="stroke-dasharray" from="0,60" to="60,0" dur="0.8s" begin="3s" fill="freeze"/>
+            <path d="M390,50 L450,50" stroke="#2E9BF7" stroke-width="8" fill="none">
+                <animate attributeName="stroke-dasharray" from="0,60" to="60,0" dur="0.8s" begin="3.5s" fill="freeze"/>
             </path>
             
             <!-- Decorative elements -->
-            <circle cx="500" cy="100" r="50" stroke="#2E9BF7" stroke-width="2" fill="none" opacity="0.3">
-                <animate attributeName="r" values="50;60;50" dur="2s" repeatCount="indefinite"/>
+            <circle cx="500" cy="100" r="30" stroke="#2E9BF7" stroke-width="2" fill="none" opacity="0.3">
+                <animate attributeName="r" values="30;40;30" dur="2s" repeatCount="indefinite"/>
                 <animate attributeName="opacity" values="0.3;0.6;0.3" dur="2s" repeatCount="indefinite"/>
             </circle>
             
