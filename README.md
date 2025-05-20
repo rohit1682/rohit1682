@@ -47,11 +47,11 @@ interests:
 </tr>
 <tr>
 <td align="center" width="140">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40" alt="Tailwind CSS" />
   <br>Tailwind CSS
 </td>
 <td align="center" width="140">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" height="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS" />
   <br>AWS
 </td>
 <td align="center" width="140">
@@ -106,12 +106,19 @@ interests:
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohit1682&show_icons=true&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit1682&theme=merko&hide_border=false" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohit1682&show_icons=true&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="70%" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1682&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit1682&theme=merko&hide_border=false" alt="GitHub Streak" width="70%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1682&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="60%" />
 </div>
 
 ## 📫 Connect With Me
