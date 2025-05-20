@@ -8,14 +8,14 @@
                 <animate attributeName="opacity" values="0.3;0.7;0.3" dur="3s" repeatCount="indefinite"/>
             </rect>
             
-            <!-- R - Fixed shape -->
-            <path d="M50,50 L50,150 L100,150 C130,150 150,130 150,100 C150,70 130,50 100,50 L50,50" stroke="#2E9BF7" stroke-width="8" fill="none">
+            <!-- R - Adjusted shape -->
+            <path d="M50,50 L50,150 L90,150 C110,150 120,140 120,120 C120,100 110,90 90,90 L50,90" stroke="#2E9BF7" stroke-width="8" fill="none">
                 <animate attributeName="stroke-dasharray" from="0,1000" to="1000,0" dur="2s" fill="freeze"/>
             </path>
-            <path d="M50,100 L120,100" stroke="#2E9BF7" stroke-width="8" fill="none">
-                <animate attributeName="stroke-dasharray" from="0,70" to="70,0" dur="1s" begin="1s" fill="freeze"/>
+            <path d="M50,90 L90,90" stroke="#2E9BF7" stroke-width="8" fill="none">
+                <animate attributeName="stroke-dasharray" from="0,40" to="40,0" dur="0.8s" begin="1s" fill="freeze"/>
             </path>
-            <path d="M120,100 L150,150" stroke="#2E9BF7" stroke-width="8" fill="none">
+            <path d="M90,90 L120,150" stroke="#2E9BF7" stroke-width="8" fill="none">
                 <animate attributeName="stroke-dasharray" from="0,70" to="70,0" dur="1s" begin="1.2s" fill="freeze"/>
             </path>
             
