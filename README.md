@@ -6,8 +6,6 @@
 
 ## 🚀 About Me
 
-<div align="center">
-
 ```yaml
 name: Rohit Ghosh
 location: India
@@ -19,8 +17,6 @@ interests:
   - Tech Innovation
   - Open Source
 ```
-
-</div>
 
 ## 💻 Tech Stack
 
@@ -47,11 +43,11 @@ interests:
 </tr>
 <tr>
 <td align="center" width="140">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="60" height="60" alt="Tailwind CSS" />
   <br>Tailwind CSS
 </td>
 <td align="center" width="140">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS" />
   <br>AWS
 </td>
 <td align="center" width="140">
@@ -83,7 +79,7 @@ interests:
 </tr>
 <tr>
 <td align="center" width="140">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50" alt="Express.js" />
   <br>Express.js
 </td>
 <td align="center" width="140">
@@ -124,12 +120,14 @@ interests:
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rohit-ghosh-1682/" target="_blank">
+  <a href="https://www.linkedin.com/in/rohit-ghosh-1682/" target="_blank" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:rht.ghs10@gmail.com">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:rht.ghs10@gmail.com" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/rohit1682" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
