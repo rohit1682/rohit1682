@@ -63,6 +63,42 @@ interests:
   <br>Docker
 </td>
 </tr>
+<tr>
+<td align="center" width="140">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  <br>Java
+</td>
+<td align="center" width="140">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <br>Python
+</td>
+<td align="center" width="140">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+  <br>MongoDB
+</td>
+<td align="center" width="140">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+  <br>MySQL
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
+  <br>Express.js
+</td>
+<td align="center" width="140">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django" />
+  <br>Django
+</td>
+<td align="center" width="140">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
+  <br>Figma
+</td>
+<td align="center" width="140">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="Jira" />
+  <br>Jira
+</td>
+</tr>
 </table>
 
 </div>
@@ -94,5 +130,5 @@ interests:
 
 <!-- Gradient footer -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E9BF7&center=true&vCenter=true&random=false&width=600&height=100&lines=Thanks+for+visiting!;Feel+free+to+connect+with+me" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E9BF7&center=true&vCenter=true&random=false&width=800&height=100&lines=Thanks+for+visiting!;Feel+free+to+connect+with+me" alt="Typing SVG" />
 </div>
