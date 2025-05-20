@@ -6,6 +6,8 @@
 
 ## 🚀 About Me
 
+<div align="center">
+
 ```yaml
 name: Rohit Ghosh
 location: India
@@ -18,7 +20,11 @@ interests:
   - Open Source
 ```
 
+</div>
+
 ## 💻 Tech Stack
+
+<div align="center">
 
 <table>
 <tr>
@@ -58,6 +64,8 @@ interests:
 </td>
 </tr>
 </table>
+
+</div>
 
 ## 🏆 Achievements
 
