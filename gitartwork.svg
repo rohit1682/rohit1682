@@ -8,15 +8,20 @@
                 <animate attributeName="opacity" values="0.3;0.7;0.3" dur="3s" repeatCount="indefinite"/>
             </rect>
             
-            <!-- R - Adjusted position -->
-            <path d="M50,30 L50,130 L90,130 C110,130 120,120 120,100 C120,80 110,70 90,70 L50,70" stroke="#2E9BF7" stroke-width="8" fill="none">
-                <animate attributeName="stroke-dasharray" from="0,1000" to="1000,0" dur="2s" fill="freeze"/>
+            <!-- R - Completely redesigned -->
+            <!-- Vertical line -->
+            <path d="M50,30 L50,130" stroke="#2E9BF7" stroke-width="8" fill="none">
+                <animate attributeName="stroke-dasharray" from="0,100" to="100,0" dur="1s" fill="freeze"/>
             </path>
-            <path d="M50,70 L90,70" stroke="#2E9BF7" stroke-width="8" fill="none">
-                <animate attributeName="stroke-dasharray" from="0,40" to="40,0" dur="0.8s" begin="1s" fill="freeze"/>
+            
+            <!-- Top rounded part -->
+            <path d="M50,30 C50,30 100,30 100,60 C100,90 50,90 50,90" stroke="#2E9BF7" stroke-width="8" fill="none">
+                <animate attributeName="stroke-dasharray" from="0,150" to="150,0" dur="1.5s" begin="1s" fill="freeze"/>
             </path>
-            <path d="M90,70 L120,130" stroke="#2E9BF7" stroke-width="8" fill="none">
-                <animate attributeName="stroke-dasharray" from="0,70" to="70,0" dur="1s" begin="1.2s" fill="freeze"/>
+            
+            <!-- Diagonal leg -->
+            <path d="M75,90 L100,130" stroke="#2E9BF7" stroke-width="8" fill="none">
+                <animate attributeName="stroke-dasharray" from="0,70" to="70,0" dur="1s" begin="2.5s" fill="freeze"/>
             </path>
             
             <!-- o -->
