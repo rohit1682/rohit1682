@@ -1,4 +1,4 @@
-# Hi there! I'm Rohit Ghosh 👋
+# Hi there! I'm 👋
 
 <div align="center">
   <img src="gitartwork.svg" alt="Rohit's GitHub Artwork" width="800px"/>
