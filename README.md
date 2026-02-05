@@ -13,7 +13,17 @@
 </div>
 
 <div align="center">
-  <img src="gitartwork.svg" alt="Rohit's GitHub Artwork" width="800px" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(34,139,34,0.3);"/>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="gitartwork.svg">
+    <source media="(prefers-color-scheme: light)" srcset="gitartwork.svg">
+    <img alt="Rohit's GitHub Contribution Art" src="gitartwork.svg" width="90%" max-width="900px">
+  </picture>
+  <br><br>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=14&pause=4000&color=32CD32&center=true&vCenter=true&random=false&width=400&height=20&lines=My+GitHub+Journey+Visualized;Every+commit+tells+a+story" alt="Artwork Description Typing SVG" />
 </div>
 
 <div align="center">
