@@ -524,7 +524,7 @@
 <!-- Animated footer with gradient -->
 <div align="center">
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=228B22&center=true&vCenter=true&random=false&width=700&height=80&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!;Feel+free+to+reach+out+anytime!" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=228B22&center=true&vCenter=true&random=false&width=900&height=80&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!;Feel+free+to+reach+out+anytime!" alt="Footer Typing SVG" />
 </div>
 
 <div align="center">
