@@ -360,20 +360,20 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohit1682&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit1682&theme=radical&hide_border=true" alt="GitHub Streak" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohit1682&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://streak-stats.demolab.com/?user=rohit1682&theme=chartreuse-dark&hide_border=true" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1682&theme=radical&hide_border=true&layout=compact" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1682&theme=chartreuse-dark&hide_border=true&layout=compact" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit1682&theme=radical" alt="Profile Summary" width="90%" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rohit1682&theme=chartreuse-dark&hide_border=true" />
 </div>
 
 ### 🎯 Professional Highlights
