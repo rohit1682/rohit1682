@@ -360,24 +360,20 @@
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=rohit1682&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=228B22&icon_color=32CD32&text_color=c9d1d9&border_color=228B22" alt="GitHub Stats" width="100%" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit1682&theme=dark&hide_border=true&background=0d1117&stroke=228B22&ring=32CD32&fire=228B22&currStreakLabel=228B22&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=rohit1682&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit1682&theme=dark&hide_border=true" alt="GitHub Streak" height="180em" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1682&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=228B22&text_color=c9d1d9&border_color=228B22" alt="Top Languages" width="50%" />
-</div>
+<br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit1682&theme=github-dark&bg_color=0d1117&color=228B22&line=32CD32&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1682&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180em" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit1682&theme=github-dark&hide_border=true" alt="Contribution Graph" width="90%" />
 </div>
 
 ### 🎯 Professional Highlights
