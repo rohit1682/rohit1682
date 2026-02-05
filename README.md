@@ -359,26 +359,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=2000&color=228B22&center=true&vCenter=true&random=false&width=500&height=40&lines=My+GitHub+Journey;Code+%26+Contributions" alt="Analytics Typing SVG" />
 </div>
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohit1682&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1682&layout=compact&langs_count=8&theme=algolia"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohit1682&show_icons=true&theme=dark&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=rohit1682&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit1682&theme=algolia" alt="rohit1682" />
+</p>
 
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1682&theme=dark&hide_border=true&layout=compact)
-
-</div>
-
-<div align="center">
-
-**📊 GitHub Activity Overview**
-
-![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=rohit1682&theme=github-dark&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=rohit1682&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
 ### 🎯 Professional Highlights
 
