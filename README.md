@@ -30,7 +30,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1500&color=228B22&center=false&vCenter=true&random=false&width=600&height=30&lines=Passionate+Full+Stack+Developer;Building+Digital+Solutions;Code+Enthusiast+%26+Problem+Solver" alt="About Me Typing SVG" />
 </div>
 
-<div align="right">
+<div align="left">
 
 ```yaml
 👨‍💻 Developer Profile:
