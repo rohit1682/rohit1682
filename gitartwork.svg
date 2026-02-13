@@ -55,10 +55,10 @@
             </path>
             
             <!-- Decorative elements -->
-            <circle cx="500" cy="100" r="30" stroke="#2E9BF7" stroke-width="2" fill="none" opacity="0.3">
+            <!-- <circle cx="500" cy="100" r="30" stroke="#2E9BF7" stroke-width="2" fill="none" opacity="0.3">
                 <animate attributeName="r" values="30;40;30" dur="2s" repeatCount="indefinite"/>
                 <animate attributeName="opacity" values="0.3;0.6;0.3" dur="2s" repeatCount="indefinite"/>
-            </circle>
+            </circle> -->
             
             <!-- Tech stack icons -->
             <g transform="translate(550, 80)">
