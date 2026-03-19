@@ -188,6 +188,42 @@
   </table>
 </div>
 
+### ⚡ DoConnect - Technical Q&A Platform
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=2500&color=228B22&center=true&vCenter=true&random=false&width=600&height=25&lines=Moderated+Q%26A+Platform;Full+Stack+ASP.NET+%2B+Angular;JWT+Auth+%26+Role-Based+Access" alt="DoConnect Typing SVG" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="40%">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=14&pause=2000&color=228B22&center=true&vCenter=true&random=false&width=300&height=20&lines=Status%3A+Completed;Stack%3A+ASP.NET+%2B+Angular;Auth%3A+JWT" alt="DoConnect Status Typing SVG" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=check&logoColor=white" alt="Status" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+      </td>
+      <td align="left" width="60%">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&pause=2500&color=228B22&center=false&vCenter=true&random=false&width=400&height=25&lines=Developer+Q%26A+Community;Key+Features%3A;Why+it+matters%3A" alt="DoConnect Features Typing SVG" />
+        <h4>🎯 What it does:</h4>
+        <p>A moderated technical Q&A platform where developers ask questions, share knowledge, and grow together — with admin-controlled content approval and role-based access.</p>
+        <h4>✨ Key Features:</h4>
+        <ul>
+          <li>🛡️ Admin-moderated content approval workflow</li>
+          <li>🔐 JWT authentication with User & Admin roles</li>
+          <li>🖼️ Image attachments on questions & answers</li>
+          <li>🔍 Full-text search across topics and content</li>
+          <li>🧪 21 unit tests with xUnit + Moq</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 💻 Tech Stack & Skills
 
 <div align="center">
