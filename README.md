@@ -10,10 +10,10 @@
 
 <br/>
 
-<a href="https://github.com/rohit1682"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/rohit-ghosh-b7b5201a6/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" /></a>&nbsp;
-<a href="mailto:rht.ghs10@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" /></a>&nbsp;
-<a href="https://leetcode.com/u/rohitG33/"><img src="https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="40" /></a>
+<a href="https://github.com/rohit1682"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="46" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/rohit-ghosh-b7b5201a6/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="46" /></a>&nbsp;
+<a href="mailto:rht.ghs10@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="46" /></a>&nbsp;
+<a href="https://leetcode.com/u/rohitG33/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="46" /></a>
 
 <br/><br/>
 
@@ -91,65 +91,28 @@
 
 <!-- ─── TECH STACK ──────────────────────────────────────────────── -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500" />
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/> Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28" alt="Tech Stack Icon"/> Tech Stack
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=00FF41&center=true&vCenter=true&width=200&height=26&lines=◈+LANGUAGES" alt="Languages Section" />
+| 🗣️ Languages | 🎨 Frontend |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=js,ts,java,python,php,cpp,cs&theme=dark&perline=7" alt="Languages" /> | <img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,tailwind,bootstrap,materialui,redux,figma&theme=dark&perline=10" alt="Frontend" /> |
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,php,cpp,cs&theme=dark&perline=10" alt="Programming Languages" />
+| ⚙️ Backend | 🗄️ Databases |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,django,graphql,spring,fastapi&theme=dark&perline=7" alt="Backend" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,sqlite&theme=dark&perline=6" alt="Databases" /> |
 
-<br/><br/>
+| ☁️ Cloud & DevOps | 🤖 AI & GenAI |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,netlify,linux,nginx&theme=dark&perline=7" alt="Cloud & DevOps" /> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=4" alt="AI" /> &nbsp; <img src="https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white" height="46" alt="Claude"/> &nbsp; <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="46" alt="LangChain"/> &nbsp; <img src="https://img.shields.io/badge/Copilot-000?style=flat-square&logo=githubcopilot&logoColor=00ff41" height="46" alt="Copilot"/> &nbsp; <img src="https://img.shields.io/badge/MCP-006400?style=flat-square&logo=probot&logoColor=white" height="46" alt="MCP"/> |
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=00FF41&center=true&vCenter=true&width=200&height=26&lines=◈+FRONTEND" alt="Frontend Section" />
-
-<img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,tailwind,bootstrap,materialui,redux,figma&theme=dark&perline=10" alt="Frontend Technologies" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=00FF41&center=true&vCenter=true&width=200&height=26&lines=◈+BACKEND" alt="Backend Section" />
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,django,graphql,spring,fastapi&theme=dark&perline=10" alt="Backend Technologies" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=00FF41&center=true&vCenter=true&width=200&height=26&lines=◈+DATABASES" alt="Databases Section" />
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,sqlite&theme=dark&perline=10" alt="Database Technologies" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=00FF41&center=true&vCenter=true&width=200&height=26&lines=◈+CLOUD+%26+DEVOPS" alt="Cloud & DevOps Section" />
-
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,netlify,linux,nginx&theme=dark&perline=10" alt="Cloud & DevOps Technologies" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=00FF41&center=true&vCenter=true&width=200&height=26&lines=◈+AI+%26+GENAI" alt="AI & GenAI Section" />
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=10" alt="AI Technologies" />
-&nbsp;<img src="https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white" height="46" alt="Claude"/>
-&nbsp;<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="46" alt="LangChain"/>
-&nbsp;<img src="https://img.shields.io/badge/Copilot-000?style=flat-square&logo=githubcopilot&logoColor=00ff41" height="46" alt="GitHub Copilot"/>
-&nbsp;<img src="https://img.shields.io/badge/MCP-006400?style=flat-square&logo=probot&logoColor=white" height="46" alt="MCP"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=00FF41&center=true&vCenter=true&width=200&height=26&lines=◈+TESTING+%26+TOOLS" alt="Testing & Tools Section" />
-
-<img src="https://skillicons.dev/icons?i=jest,postman,git,github,vscode,jira,notion,figma&theme=dark&perline=10" alt="Testing & Tools" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=00FF41&center=true&vCenter=true&width=200&height=26&lines=◈+SALESFORCE" alt="Salesforce Section" />
-
-<img src="https://skillicons.dev/icons?i=salesforce&theme=dark" alt="Salesforce" />
-&nbsp;<img src="https://img.shields.io/badge/LWC-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="46" alt="Lightning Web Components"/>
-&nbsp;<img src="https://img.shields.io/badge/Apex-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="46" alt="Apex"/>
-&nbsp;<img src="https://img.shields.io/badge/Flow_Automation-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="46" alt="Flow Automation"/>
+| 🧪 Testing & Tools | ☁️ Salesforce |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=jest,postman,git,github,vscode,jira,notion,figma&theme=dark&perline=8" alt="Testing & Tools" /> | <img src="https://skillicons.dev/icons?i=salesforce&theme=dark" alt="Salesforce" /> &nbsp; <img src="https://img.shields.io/badge/LWC-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="46" alt="LWC"/> &nbsp; <img src="https://img.shields.io/badge/Apex-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="46" alt="Apex"/> &nbsp; <img src="https://img.shields.io/badge/Flow_Automation-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="46" alt="Flow Automation"/> |
 
 </div>
 
@@ -188,10 +151,13 @@
 <summary><b>☁️ Salesforce — Virtual Developer Intern &nbsp;|&nbsp; May 2024 – Jun 2024 &nbsp;|&nbsp; Remote</b></summary>
 <br/>
 
-- Worked on Salesforce development & administration modules
-- Built Lightning Web Components (LWC) for custom UI solutions
-- Performed API integrations within the Salesforce ecosystem
+- Completed comprehensive Salesforce development and administration training modules
+- Built Lightning Web Components (LWC) for custom UI solutions and enhanced user experience
+- Performed API integrations within the Salesforce ecosystem using REST and SOAP protocols
+- Developed Apex triggers and classes for complex business logic automation
+- Implemented Process Builder and Flow Automation for streamlined workflows
 - Earned Superbadges: Apex Specialist, Process Automation Specialist, Developer Super Set
+- Gained hands-on experience with Salesforce DX, version control, and deployment strategies
 
 </details>
 
@@ -199,10 +165,13 @@
 <summary><b>🖥️ HP India — Full Stack Developer Intern &nbsp;|&nbsp; May 2023 – Sep 2023 &nbsp;|&nbsp; Kolkata, India (Hybrid)</b></summary>
 <br/>
 
-- Built responsive UI using HTML, CSS, JavaScript, Bootstrap, and jQuery
-- Developed backend solutions using PHP & MySQL
-- Improved database query performance by **35%**
-- Managed web hosting infrastructure with **99.9% uptime**
+- Built responsive and mobile-first UI using HTML5, CSS3, JavaScript, Bootstrap, and jQuery
+- Developed backend solutions using PHP and MySQL with MVC architecture
+- Optimized database queries and implemented indexing strategies, improving performance by **35%**
+- Managed web hosting infrastructure on Linux servers with **99.9% uptime**
+- Implemented RESTful APIs for seamless frontend-backend communication
+- Collaborated with cross-functional teams using Agile methodologies
+- Conducted code reviews and maintained documentation for knowledge transfer
 
 </details>
 
@@ -271,19 +240,19 @@
 
 <div align="center">
 
-![Claude](https://img.shields.io/badge/Claude_Certified_Architect-Anthropic-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Academy_Graduate-Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript_Developer-EPAM_Systems-006400?style=for-the-badge&logo=javascript&logoColor=white)
-![SF](https://img.shields.io/badge/Salesforce_Developer_Superbadges-Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-
-![FS](https://img.shields.io/badge/Full_Stack_Development-Webskitters-006400?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django_Web_Development-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
-![CV](https://img.shields.io/badge/Computer_Vision-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js_Certification-LinkedIn_Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-
-![GenAI](https://img.shields.io/badge/GenAI_%26_Prompt_Engineering-Coursera_(IBM%2FVanderbilt)-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
-![DS](https://img.shields.io/badge/Data_Structures_in_Java-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
-![PM](https://img.shields.io/badge/Project_Management-Coding_Ninjas-FF6B35?style=for-the-badge)
+| 🎓 Certification | 🏢 Provider |
+|:---|:---:|
+| **Claude Certified Architect** | Anthropic |
+| **AWS Academy Graduate** | Amazon Web Services |
+| **JavaScript Developer** | EPAM Systems |
+| **Salesforce Developer Superbadges** (Apex Specialist, Process Automation, Developer Super Set) | Salesforce |
+| **Full Stack Development** | Webskitters |
+| **Django Web Development** | Udemy |
+| **Computer Vision** | Udemy |
+| **Node.js Certification** | LinkedIn Learning |
+| **GenAI & Prompt Engineering** | Coursera (IBM/Vanderbilt) |
+| **Data Structures in Java** | Udemy |
+| **Project Management** | Coding Ninjas |
 
 </div>
 
@@ -344,37 +313,41 @@ Headed the school's flagship public-speaking society, scaling membership and ele
 
 <br/>
 
-<a href="https://www.instagram.com/rohit_ghosh_photography/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="46" alt="Instagram Photography" /></a>
+<a href="https://www.instagram.com/rohit_ghosh_photography/">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="60" alt="Instagram Photography" />
+</a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/📸-Photography-006400?style=flat-square&labelColor=000" height="46" alt="Photography"/>
+<img src="https://img.shields.io/badge/📸-Photography-006400?style=flat-square&labelColor=000" height="60" alt="Photography"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🎤-Public_Speaking-006400?style=flat-square&labelColor=000" height="46" alt="Public Speaking"/>
+<img src="https://img.shields.io/badge/🎤-Public_Speaking-006400?style=flat-square&labelColor=000" height="60" alt="Public Speaking"/>
 &nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/rohitG33/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="46" alt="LeetCode"/></a>
+<a href="https://leetcode.com/u/rohitG33/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="60" alt="LeetCode"/>
+</a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/💻-Competitive_Coding-006400?style=flat-square&labelColor=000" height="46" alt="Competitive Coding"/>
+<img src="https://img.shields.io/badge/💻-Competitive_Coding-006400?style=flat-square&labelColor=000" height="60" alt="Competitive Coding"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🏏-Cricket-006400?style=flat-square&labelColor=000" height="46" alt="Cricket"/>
+<img src="https://img.shields.io/badge/🏏-Cricket-006400?style=flat-square&labelColor=000" height="60" alt="Cricket"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🏸-Badminton-006400?style=flat-square&labelColor=000" height="46" alt="Badminton"/>
+<img src="https://img.shields.io/badge/🏸-Badminton-006400?style=flat-square&labelColor=000" height="60" alt="Badminton"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/📈-Finance_%26_Investing-006400?style=flat-square&labelColor=000" height="46" alt="Finance & Investing"/>
+<img src="https://img.shields.io/badge/📈-Finance_%26_Investing-006400?style=flat-square&labelColor=000" height="60" alt="Finance & Investing"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🥋-Martial_Arts-006400?style=flat-square&labelColor=000" height="46" alt="Martial Arts"/>
+<img src="https://img.shields.io/badge/🥋-Martial_Arts-006400?style=flat-square&labelColor=000" height="60" alt="Martial Arts"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/✈️-Travelling-006400?style=flat-square&labelColor=000" height="46" alt="Travelling"/>
+<img src="https://img.shields.io/badge/✈️-Travelling-006400?style=flat-square&labelColor=000" height="60" alt="Travelling"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/📖-Reading-006400?style=flat-square&labelColor=000" height="46" alt="Reading"/>
+<img src="https://img.shields.io/badge/📖-Reading-006400?style=flat-square&labelColor=000" height="60" alt="Reading"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🎵-Music-006400?style=flat-square&labelColor=000" height="46" alt="Music"/>
+<img src="https://img.shields.io/badge/🎵-Music-006400?style=flat-square&labelColor=000" height="60" alt="Music"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/💪-Fitness-006400?style=flat-square&labelColor=000" height="46" alt="Fitness"/>
+<img src="https://img.shields.io/badge/💪-Fitness-006400?style=flat-square&labelColor=000" height="60" alt="Fitness"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🇩🇪-German_Language-006400?style=flat-square&labelColor=000" height="46" alt="German Language"/>
+<img src="https://img.shields.io/badge/🇩🇪-German_Language-006400?style=flat-square&labelColor=000" height="60" alt="German Language"/>
 
 </div>
 
@@ -386,19 +359,19 @@ Headed the school's flagship public-speaking society, scaling membership and ele
 <div align="center">
 
 <a href="https://github.com/rohit1682">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="52" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="60" alt="GitHub" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/rohit-ghosh-b7b5201a6/">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="52" alt="LinkedIn" />
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="60" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:rht.ghs10@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="52" alt="Email" />
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="60" alt="Email" />
 </a>
 &nbsp;&nbsp;
 <a href="https://leetcode.com/u/rohitG33/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="52" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="60" alt="LeetCode" />
 </a>
 
 <br/><br/>
