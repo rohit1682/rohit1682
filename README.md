@@ -13,7 +13,7 @@
 <a href="https://github.com/rohit1682"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="46" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/rohit-ghosh-b7b5201a6/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="46" /></a>&nbsp;
 <a href="mailto:rht.ghs10@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="46" /></a>&nbsp;
-<a href="https://leetcode.com/u/rohitG33/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="46" /></a>
+<a href="https://leetcode.com/u/rohitG33/"><img src="https://skillicons.dev/icons?i=leetcode&theme=dark" width="46" /></a>
 
 <br/><br/>
 
@@ -77,8 +77,12 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" alt="GitHub Stats Icon"/> GitHub Analytics
 
 <div align="center">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=rohit1682&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&icon_color=00ff41&title_color=00ff41" alt="GitHub Stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1682&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=12&langs_count=8&title_color=00ff41" alt="Top Languages" />
+<a href="https://github.com/rohit1682">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=rohit1682&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&icon_color=00ff41&title_color=00ff41" alt="Rohit's GitHub Stats" />
+</a>
+<a href="https://github.com/rohit1682">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1682&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=12&langs_count=8&title_color=00ff41" alt="Rohit's Top Languages" />
+</a>
 </div>
 
 <br/>
@@ -314,40 +318,40 @@ Headed the school's flagship public-speaking society, scaling membership and ele
 <br/>
 
 <a href="https://www.instagram.com/rohit_ghosh_photography/">
-  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="60" alt="Instagram Photography" />
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="70" alt="Instagram Photography" />
 </a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/📸-Photography-006400?style=flat-square&labelColor=000" height="60" alt="Photography"/>
+<img src="https://img.shields.io/badge/📸-Photography-006400?style=flat-square&labelColor=000" height="70" alt="Photography"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🎤-Public_Speaking-006400?style=flat-square&labelColor=000" height="60" alt="Public Speaking"/>
+<img src="https://img.shields.io/badge/🎤-Public_Speaking-006400?style=flat-square&labelColor=000" height="70" alt="Public Speaking"/>
 &nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/rohitG33/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="60" alt="LeetCode"/>
+  <img src="https://skillicons.dev/icons?i=leetcode&theme=dark" width="70" alt="LeetCode"/>
 </a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/💻-Competitive_Coding-006400?style=flat-square&labelColor=000" height="60" alt="Competitive Coding"/>
+<img src="https://img.shields.io/badge/💻-Competitive_Coding-006400?style=flat-square&labelColor=000" height="70" alt="Competitive Coding"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🏏-Cricket-006400?style=flat-square&labelColor=000" height="60" alt="Cricket"/>
+<img src="https://img.shields.io/badge/🏏-Cricket-006400?style=flat-square&labelColor=000" height="70" alt="Cricket"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🏸-Badminton-006400?style=flat-square&labelColor=000" height="60" alt="Badminton"/>
+<img src="https://img.shields.io/badge/🏸-Badminton-006400?style=flat-square&labelColor=000" height="70" alt="Badminton"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/📈-Finance_%26_Investing-006400?style=flat-square&labelColor=000" height="60" alt="Finance & Investing"/>
+<img src="https://img.shields.io/badge/📈-Finance_%26_Investing-006400?style=flat-square&labelColor=000" height="70" alt="Finance & Investing"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🥋-Martial_Arts-006400?style=flat-square&labelColor=000" height="60" alt="Martial Arts"/>
+<img src="https://img.shields.io/badge/🥋-Martial_Arts-006400?style=flat-square&labelColor=000" height="70" alt="Martial Arts"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/✈️-Travelling-006400?style=flat-square&labelColor=000" height="60" alt="Travelling"/>
+<img src="https://img.shields.io/badge/✈️-Travelling-006400?style=flat-square&labelColor=000" height="70" alt="Travelling"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/📖-Reading-006400?style=flat-square&labelColor=000" height="60" alt="Reading"/>
+<img src="https://img.shields.io/badge/📖-Reading-006400?style=flat-square&labelColor=000" height="70" alt="Reading"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🎵-Music-006400?style=flat-square&labelColor=000" height="60" alt="Music"/>
+<img src="https://img.shields.io/badge/🎵-Music-006400?style=flat-square&labelColor=000" height="70" alt="Music"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/💪-Fitness-006400?style=flat-square&labelColor=000" height="60" alt="Fitness"/>
+<img src="https://img.shields.io/badge/💪-Fitness-006400?style=flat-square&labelColor=000" height="70" alt="Fitness"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🇩🇪-German_Language-006400?style=flat-square&labelColor=000" height="60" alt="German Language"/>
+<img src="https://img.shields.io/badge/🇩🇪-German_Language-006400?style=flat-square&labelColor=000" height="70" alt="German Language"/>
 
 </div>
 
@@ -371,7 +375,7 @@ Headed the school's flagship public-speaking society, scaling membership and ele
 </a>
 &nbsp;&nbsp;
 <a href="https://leetcode.com/u/rohitG33/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="60" alt="LeetCode" />
+  <img src="https://skillicons.dev/icons?i=leetcode&theme=dark" width="60" alt="LeetCode" />
 </a>
 
 <br/><br/>
