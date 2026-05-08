@@ -35,9 +35,9 @@
 
 <br/>
 
-<!-- ─── COVER IMAGE ─────────────────────────────────────────────── -->
+<!-- ─── COVER BANNER ────────────────────────────────────────────── -->
 <div align="center">
-  <img src="assets/images/front_cover.jpg" alt="Cover" width="100%" style="border-radius:16px;max-width:980px;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" alt="Developer Animation" />
 </div>
 
 <br/>
@@ -45,7 +45,7 @@
 <!-- ─── ABOUT ME ────────────────────────────────────────────────── -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
 
-<img align="right" src="assets/images/profile.jpg" width="200" style="border-radius:50%;border:4px solid #00ff41;margin-left:20px;" alt="Rohit Ghosh" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="Coding Animation" />
 
 ```yaml
 👤 name     : "Rohit Ghosh"
@@ -64,6 +64,10 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rohit1682&theme=dark&hide_border=true&border_radius=10&ring=00ff41&fire=39ff14&currStreakLabel=00ff41&sideLabels=00ff41&dates=888888" width="60%" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
 <br/>
@@ -104,158 +108,60 @@
 <br/>
 
 <!-- ─── TECH STACK ──────────────────────────────────────────────── -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="coding gif" />
+</div>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/> Tech Stack
 
 <div align="center">
 
-<!-- LANGUAGES -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=99999&color=00FF41&center=true&vCenter=true&width=300&height=30&lines=%F0%9F%8C%90+LANGUAGES" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=99999&color=00FF41&center=true&vCenter=true&width=220&height=28&lines=◈+LANGUAGES" />
 
-<br/>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,php,cpp,cs&theme=dark&perline=10" />
 
 <br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=99999&color=00FF41&center=true&vCenter=true&width=220&height=28&lines=◈+FRONTEND" />
 
-<!-- FRONTEND -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=99999&color=00FF41&center=true&vCenter=true&width=300&height=30&lines=%F0%9F%8E%A8+FRONTEND" />
-
-<br/>
-
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MUI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,tailwind,bootstrap,materialui,redux,figma&theme=dark&perline=10" />
 
 <br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=99999&color=00FF41&center=true&vCenter=true&width=220&height=28&lines=◈+BACKEND" />
 
-<!-- BACKEND -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=99999&color=00FF41&center=true&vCenter=true&width=300&height=30&lines=%E2%9A%99%EF%B8%8F+BACKEND" />
-
-<br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Django](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,django,graphql,fastapi,spring&theme=dark&perline=10" />
 
 <br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=99999&color=00FF41&center=true&vCenter=true&width=220&height=28&lines=◈+DATABASES" />
 
-<!-- DATABASES -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=99999&color=00FF41&center=true&vCenter=true&width=300&height=30&lines=%F0%9F%97%84%EF%B8%8F+DATABASES" />
-
-<br/>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,sqlite,dynamodb&theme=dark&perline=10" />
 
 <br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=99999&color=00FF41&center=true&vCenter=true&width=220&height=28&lines=◈+CLOUD+%26+DEVOPS" />
 
-<!-- CLOUD & DEVOPS -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=99999&color=00FF41&center=true&vCenter=true&width=300&height=30&lines=%E2%98%81%EF%B8%8F+CLOUD+%26+DEVOPS" />
-
-<br/>
-
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,netlify,linux,nginx&theme=dark&perline=10" />
 
 <br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=99999&color=00FF41&center=true&vCenter=true&width=220&height=28&lines=◈+AI+%26+GENAI" />
 
-<!-- AI & GENAI -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=99999&color=00FF41&center=true&vCenter=true&width=300&height=30&lines=%F0%9F%A4%96+AI+%26+GENAI" />
-
-<br/>
-
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-006400?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Architect-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Basics-006400?style=for-the-badge&logo=openai&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-003300?style=for-the-badge&logo=probot&logoColor=white)
-![Botpress](https://img.shields.io/badge/Botpress-1F1F1F?style=for-the-badge&logo=botpress&logoColor=white)
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,openai&theme=dark&perline=10" />
+&nbsp;
+<img src="https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white&labelColor=000" height="48"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=000" height="48"/>
+<img src="https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=00ff41&labelColor=000" height="48"/>
 
 <br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=99999&color=00FF41&center=true&vCenter=true&width=220&height=28&lines=◈+TESTING+%26+TOOLS" />
 
-<!-- TESTING & TOOLS -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=99999&color=00FF41&center=true&vCenter=true&width=300&height=30&lines=%F0%9F%A7%AA+TESTING+%26+TOOLS" />
-
-<br/>
-
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+<img src="https://skillicons.dev/icons?i=jest,postman,git,github,vscode,jira,notion,figma&theme=dark&perline=10" />
 
 <br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=99999&color=00FF41&center=true&vCenter=true&width=220&height=28&lines=◈+SALESFORCE" />
 
-<!-- SALESFORCE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=99999&color=00FF41&center=true&vCenter=true&width=300&height=30&lines=%E2%98%81%EF%B8%8F+SALESFORCE" />
-
-<br/>
-
-![LWC](https://img.shields.io/badge/Lightning_Web_Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Process Automation](https://img.shields.io/badge/Process_Automation-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Salesforce Admin](https://img.shields.io/badge/Salesforce_Admin-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-
-<br/><br/>
-
-<!-- METHODOLOGIES -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=99999&color=00FF41&center=true&vCenter=true&width=300&height=30&lines=%F0%9F%A7%A0+METHODOLOGIES" />
-
-<br/>
-
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-006400?style=for-the-badge&logo=abstract&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-4A90D9?style=for-the-badge&logo=databricks&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-<br/><br/>
-
-<!-- HUMAN LANGUAGES -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=99999&color=00FF41&center=true&vCenter=true&width=300&height=30&lines=%F0%9F%97%A3%EF%B8%8F+HUMAN+LANGUAGES" />
-
-<br/>
-
-![English](https://img.shields.io/badge/English-Fluent-006400?style=for-the-badge)
-![Hindi](https://img.shields.io/badge/Hindi-Native-FF9933?style=for-the-badge)
-![Bengali](https://img.shields.io/badge/Bengali-Native-006400?style=for-the-badge)
-![German](https://img.shields.io/badge/German-Communicative-000000?style=for-the-badge&logo=duolingo&logoColor=white)
+<img src="https://skillicons.dev/icons?i=salesforce&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/LWC-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Apex-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Flow_Automation-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="48"/>
 
 </div>
 
@@ -309,6 +215,10 @@
 <br/>
 
 <!-- ─── FEATURED PROJECTS ───────────────────────────────────────── -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" alt="projects animation" />
+</div>
+
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"/> Featured Projects
 
 <div align="center">
