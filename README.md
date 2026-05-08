@@ -13,7 +13,7 @@
 <a href="https://github.com/rohit1682"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="46" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/rohit-ghosh-b7b5201a6/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="46" /></a>&nbsp;
 <a href="mailto:rht.ghs10@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="46" /></a>&nbsp;
-<a href="https://leetcode.com/u/rohitG33/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="46" /></a>
+<a href="https://leetcode.com/u/rohitG33/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="46" alt="LeetCode" /></a>
 
 <br/><br/>
 
@@ -319,7 +319,7 @@ Headed the school's flagship public-speaking society, scaling membership and ele
 <img src="https://img.shields.io/badge/🎤-Public_Speaking-006400?style=flat-square&labelColor=000" height="100" alt="Public Speaking"/>
 &nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/rohitG33/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="100" alt="LeetCode"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="100" alt="LeetCode"/>
 </a>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/💻-Competitive_Coding-006400?style=flat-square&labelColor=000" height="100" alt="Competitive Coding"/>
@@ -343,8 +343,6 @@ Headed the school's flagship public-speaking society, scaling membership and ele
 <img src="https://img.shields.io/badge/🎵-Music-006400?style=flat-square&labelColor=000" height="100" alt="Music"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/💪-Fitness-006400?style=flat-square&labelColor=000" height="100" alt="Fitness"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🇩🇪-German_Language-006400?style=flat-square&labelColor=000" height="100" alt="German Language"/>
 
 </div>
 
@@ -368,7 +366,7 @@ Headed the school's flagship public-speaking society, scaling membership and ele
 </a>
 &nbsp;&nbsp;
 <a href="https://leetcode.com/u/rohitG33/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="60" alt="LeetCode" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="60" alt="LeetCode" />
 </a>
 
 <br/><br/>
