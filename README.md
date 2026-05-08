@@ -105,7 +105,7 @@
 
 | 🧪 Testing & Tools | ☁️ Salesforce |
 |:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=jest,postman,git,github,vscode,jira,notion,figma&theme=dark&perline=8" alt="Testing & Tools" /> | <img src="https://skillicons.dev/icons?i=salesforce&theme=dark" alt="Salesforce" /> |
+| <img src="https://skillicons.dev/icons?i=jest,postman,git,github,vscode,atlassian,notion,figma&theme=dark&perline=8" alt="Testing & Tools" /> | <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="46" alt="Salesforce"/> &nbsp; <img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="46" alt="LWC"/> &nbsp; <img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="46" alt="Apex"/> |
 
 </div>
 
