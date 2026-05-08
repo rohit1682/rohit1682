@@ -77,15 +77,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" alt="GitHub Stats Icon"/> GitHub Analytics
 
 <div align="center">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=rohit1682&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&icon_color=00ff41&title_color=00ff41&cache_seconds=1800" alt="Rohit's GitHub Stats" />
-&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1682&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=12&langs_count=8&title_color=00ff41&cache_seconds=1800" alt="Rohit's Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit1682&theme=react-dark&hide_border=true&radius=12&area=true&area_color=00ff41&line=00ff41&point=39ff14&color=00ff41" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit1682&theme=react-dark&hide_border=true&radius=12&area=true&area_color=00ff41&line=00ff41&point=39ff14&color=00ff41" width="100%" alt="Contribution Graph" />
 </div>
 
 <br/>
@@ -109,11 +101,11 @@
 
 | ☁️ Cloud & DevOps | 🤖 AI & GenAI |
 |:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,netlify,linux,nginx&theme=dark&perline=7" alt="Cloud & DevOps" /> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=4" alt="AI" /> &nbsp; <img src="https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white" height="46" alt="Claude"/> &nbsp; <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="46" alt="LangChain"/> &nbsp; <img src="https://img.shields.io/badge/Copilot-000?style=flat-square&logo=githubcopilot&logoColor=00ff41" height="46" alt="Copilot"/> &nbsp; <img src="https://img.shields.io/badge/MCP-006400?style=flat-square&logo=probot&logoColor=white" height="46" alt="MCP"/> |
+| <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,netlify,linux,nginx&theme=dark&perline=7" alt="Cloud & DevOps" /> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=2" alt="AI & GenAI" /> |
 
 | 🧪 Testing & Tools | ☁️ Salesforce |
 |:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=jest,postman,git,github,vscode,jira,notion,figma&theme=dark&perline=8" alt="Testing & Tools" /> | <img src="https://skillicons.dev/icons?i=salesforce&theme=dark" alt="Salesforce" /> &nbsp; <img src="https://img.shields.io/badge/LWC-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="46" alt="LWC"/> &nbsp; <img src="https://img.shields.io/badge/Apex-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="46" alt="Apex"/> &nbsp; <img src="https://img.shields.io/badge/Flow_Automation-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="46" alt="Flow Automation"/> |
+| <img src="https://skillicons.dev/icons?i=jest,postman,git,github,vscode,jira,notion,figma&theme=dark&perline=8" alt="Testing & Tools" /> | <img src="https://skillicons.dev/icons?i=salesforce&theme=dark" alt="Salesforce" /> |
 
 </div>
 
@@ -314,35 +306,29 @@ Headed the school's flagship public-speaking society, scaling membership and ele
 
 <br/>
 
-<img src="https://img.shields.io/badge/📸-Photography-006400?style=flat-square&labelColor=000" height="100" alt="Photography"/>
+<img src="https://img.shields.io/badge/📸-Photography-006400?style=flat-square&labelColor=000" height="80" alt="Photography"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🎤-Public_Speaking-006400?style=flat-square&labelColor=000" height="100" alt="Public Speaking"/>
+<img src="https://img.shields.io/badge/🎤-Public_Speaking-006400?style=flat-square&labelColor=000" height="80" alt="Public Speaking"/>
 &nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/rohitG33/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="100" alt="LeetCode"/>
-</a>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/💻-Competitive_Coding-006400?style=flat-square&labelColor=000" height="100" alt="Competitive Coding"/>
+<img src="https://img.shields.io/badge/🏏-Cricket-006400?style=flat-square&labelColor=000" height="80" alt="Cricket"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/🏸-Badminton-006400?style=flat-square&labelColor=000" height="80" alt="Badminton"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🏏-Cricket-006400?style=flat-square&labelColor=000" height="100" alt="Cricket"/>
+<img src="https://img.shields.io/badge/📈-Finance_%26_Investing-006400?style=flat-square&labelColor=000" height="80" alt="Finance & Investing"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🏸-Badminton-006400?style=flat-square&labelColor=000" height="100" alt="Badminton"/>
+<img src="https://img.shields.io/badge/🥋-Martial_Arts-006400?style=flat-square&labelColor=000" height="80" alt="Martial Arts"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/📈-Finance_%26_Investing-006400?style=flat-square&labelColor=000" height="100" alt="Finance & Investing"/>
+<img src="https://img.shields.io/badge/✈️-Travelling-006400?style=flat-square&labelColor=000" height="80" alt="Travelling"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🥋-Martial_Arts-006400?style=flat-square&labelColor=000" height="100" alt="Martial Arts"/>
+<img src="https://img.shields.io/badge/📖-Reading-006400?style=flat-square&labelColor=000" height="80" alt="Reading"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/✈️-Travelling-006400?style=flat-square&labelColor=000" height="100" alt="Travelling"/>
+<img src="https://img.shields.io/badge/🎵-Music-006400?style=flat-square&labelColor=000" height="80" alt="Music"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/📖-Reading-006400?style=flat-square&labelColor=000" height="100" alt="Reading"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🎵-Music-006400?style=flat-square&labelColor=000" height="100" alt="Music"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/💪-Fitness-006400?style=flat-square&labelColor=000" height="100" alt="Fitness"/>
+<img src="https://img.shields.io/badge/💪-Fitness-006400?style=flat-square&labelColor=000" height="80" alt="Fitness"/>
 
 </div>
 
