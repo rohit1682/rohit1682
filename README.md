@@ -74,11 +74,11 @@
 <br/>
 
 <!-- ─── GITHUB STATS ────────────────────────────────────────────── -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> GitHub Analytics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" alt="GitHub Stats Icon"/> GitHub Analytics
 
 <div align="center">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=rohit1682&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&icon_color=00ff41&title_color=00ff41" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1682&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=12&langs_count=8&title_color=00ff41" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=rohit1682&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&icon_color=00ff41&title_color=00ff41" alt="GitHub Stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1682&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=12&langs_count=8&title_color=00ff41" alt="Top Languages" />
 </div>
 
 <br/>
@@ -98,51 +98,58 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=00FF41&center=true&vCenter=true&width=200&height=26&lines=◈+LANGUAGES" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=00FF41&center=true&vCenter=true&width=200&height=26&lines=◈+LANGUAGES" alt="Languages Section" />
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,php,cpp,cs&theme=dark&perline=10" />
-
-<br/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=00FF41&center=true&vCenter=true&width=200&height=26&lines=◈+FRONTEND" />
-
-<img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,tailwind,bootstrap,materialui,redux,figma&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,php,cpp,cs&theme=dark&perline=10" alt="Programming Languages" />
 
 <br/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=00FF41&center=true&vCenter=true&width=200&height=26&lines=◈+BACKEND" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,django,graphql,spring,fastapi&theme=dark&perline=10" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=00FF41&center=true&vCenter=true&width=200&height=26&lines=◈+FRONTEND" alt="Frontend Section" />
 
-<br/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=00FF41&center=true&vCenter=true&width=200&height=26&lines=◈+DATABASES" />
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,sqlite&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,tailwind,bootstrap,materialui,redux,figma&theme=dark&perline=10" alt="Frontend Technologies" />
 
 <br/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=00FF41&center=true&vCenter=true&width=200&height=26&lines=◈+CLOUD+%26+DEVOPS" />
 
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,netlify,linux,nginx&theme=dark&perline=10" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=00FF41&center=true&vCenter=true&width=200&height=26&lines=◈+BACKEND" alt="Backend Section" />
 
-<br/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=00FF41&center=true&vCenter=true&width=200&height=26&lines=◈+AI+%26+GENAI" />
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,openai&theme=dark&perline=10" />
-&nbsp;<img src="https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white" height="46"/>
-&nbsp;<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="46"/>
-&nbsp;<img src="https://img.shields.io/badge/Copilot-000?style=flat-square&logo=githubcopilot&logoColor=00ff41" height="46"/>
-&nbsp;<img src="https://img.shields.io/badge/MCP-006400?style=flat-square&logo=probot&logoColor=white" height="46"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,django,graphql,spring,fastapi&theme=dark&perline=10" alt="Backend Technologies" />
 
 <br/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=00FF41&center=true&vCenter=true&width=200&height=26&lines=◈+TESTING+%26+TOOLS" />
 
-<img src="https://skillicons.dev/icons?i=jest,postman,git,github,vscode,jira,notion,figma&theme=dark&perline=10" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=00FF41&center=true&vCenter=true&width=200&height=26&lines=◈+DATABASES" alt="Databases Section" />
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,sqlite&theme=dark&perline=10" alt="Database Technologies" />
 
 <br/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=00FF41&center=true&vCenter=true&width=200&height=26&lines=◈+SALESFORCE" />
 
-<img src="https://skillicons.dev/icons?i=salesforce&theme=dark" />
-&nbsp;<img src="https://img.shields.io/badge/LWC-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="46"/>
-&nbsp;<img src="https://img.shields.io/badge/Apex-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="46"/>
-&nbsp;<img src="https://img.shields.io/badge/Flow_Automation-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="46"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=00FF41&center=true&vCenter=true&width=200&height=26&lines=◈+CLOUD+%26+DEVOPS" alt="Cloud & DevOps Section" />
+
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,netlify,linux,nginx&theme=dark&perline=10" alt="Cloud & DevOps Technologies" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=00FF41&center=true&vCenter=true&width=200&height=26&lines=◈+AI+%26+GENAI" alt="AI & GenAI Section" />
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=10" alt="AI Technologies" />
+&nbsp;<img src="https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white" height="46" alt="Claude"/>
+&nbsp;<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="46" alt="LangChain"/>
+&nbsp;<img src="https://img.shields.io/badge/Copilot-000?style=flat-square&logo=githubcopilot&logoColor=00ff41" height="46" alt="GitHub Copilot"/>
+&nbsp;<img src="https://img.shields.io/badge/MCP-006400?style=flat-square&logo=probot&logoColor=white" height="46" alt="MCP"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=00FF41&center=true&vCenter=true&width=200&height=26&lines=◈+TESTING+%26+TOOLS" alt="Testing & Tools Section" />
+
+<img src="https://skillicons.dev/icons?i=jest,postman,git,github,vscode,jira,notion,figma&theme=dark&perline=10" alt="Testing & Tools" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=00FF41&center=true&vCenter=true&width=200&height=26&lines=◈+SALESFORCE" alt="Salesforce Section" />
+
+<img src="https://skillicons.dev/icons?i=salesforce&theme=dark" alt="Salesforce" />
+&nbsp;<img src="https://img.shields.io/badge/LWC-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="46" alt="Lightning Web Components"/>
+&nbsp;<img src="https://img.shields.io/badge/Apex-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="46" alt="Apex"/>
+&nbsp;<img src="https://img.shields.io/badge/Flow_Automation-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="46" alt="Flow Automation"/>
 
 </div>
 
@@ -333,41 +340,41 @@ Headed the school's flagship public-speaking society, scaling membership and ele
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Beyond Code Banner" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="40" title="Photography" />
+<a href="https://www.instagram.com/rohit_ghosh_photography/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="46" alt="Instagram Photography" /></a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/📸-Photography-006400?style=flat-square&labelColor=000" height="40"/>
+<img src="https://img.shields.io/badge/📸-Photography-006400?style=flat-square&labelColor=000" height="46" alt="Photography"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🎤-Public_Speaking-006400?style=flat-square&labelColor=000" height="40"/>
+<img src="https://img.shields.io/badge/🎤-Public_Speaking-006400?style=flat-square&labelColor=000" height="46" alt="Public Speaking"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=leetcode&theme=dark" width="40" title="Competitive Coding" />
+<a href="https://leetcode.com/u/rohitG33/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="46" alt="LeetCode"/></a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/💻-Competitive_Coding-006400?style=flat-square&labelColor=000" height="40"/>
+<img src="https://img.shields.io/badge/💻-Competitive_Coding-006400?style=flat-square&labelColor=000" height="46" alt="Competitive Coding"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🏏-Cricket-006400?style=flat-square&labelColor=000" height="40"/>
+<img src="https://img.shields.io/badge/🏏-Cricket-006400?style=flat-square&labelColor=000" height="46" alt="Cricket"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🏸-Badminton-006400?style=flat-square&labelColor=000" height="40"/>
+<img src="https://img.shields.io/badge/🏸-Badminton-006400?style=flat-square&labelColor=000" height="46" alt="Badminton"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/📈-Finance_%26_Investing-006400?style=flat-square&labelColor=000" height="40"/>
+<img src="https://img.shields.io/badge/📈-Finance_%26_Investing-006400?style=flat-square&labelColor=000" height="46" alt="Finance & Investing"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🥋-Martial_Arts-006400?style=flat-square&labelColor=000" height="40"/>
+<img src="https://img.shields.io/badge/🥋-Martial_Arts-006400?style=flat-square&labelColor=000" height="46" alt="Martial Arts"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/✈️-Travelling-006400?style=flat-square&labelColor=000" height="40"/>
+<img src="https://img.shields.io/badge/✈️-Travelling-006400?style=flat-square&labelColor=000" height="46" alt="Travelling"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/📖-Reading-006400?style=flat-square&labelColor=000" height="40"/>
+<img src="https://img.shields.io/badge/📖-Reading-006400?style=flat-square&labelColor=000" height="46" alt="Reading"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🎵-Music-006400?style=flat-square&labelColor=000" height="40"/>
+<img src="https://img.shields.io/badge/🎵-Music-006400?style=flat-square&labelColor=000" height="46" alt="Music"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/💪-Fitness-006400?style=flat-square&labelColor=000" height="40"/>
+<img src="https://img.shields.io/badge/💪-Fitness-006400?style=flat-square&labelColor=000" height="46" alt="Fitness"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🇩🇪-German_Language-006400?style=flat-square&labelColor=000" height="40"/>
+<img src="https://img.shields.io/badge/🇩🇪-German_Language-006400?style=flat-square&labelColor=000" height="46" alt="German Language"/>
 
 </div>
 
@@ -379,19 +386,19 @@ Headed the school's flagship public-speaking society, scaling membership and ele
 <div align="center">
 
 <a href="https://github.com/rohit1682">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="52" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="52" alt="GitHub" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/rohit-ghosh-b7b5201a6/">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="52" title="LinkedIn" />
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="52" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:rht.ghs10@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="52" title="Email" />
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="52" alt="Email" />
 </a>
 &nbsp;&nbsp;
 <a href="https://leetcode.com/u/rohitG33/">
-  <img src="https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="52" title="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="52" alt="LeetCode" />
 </a>
 
 <br/><br/>
